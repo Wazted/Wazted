@@ -1,6 +1,6 @@
 ### Hi, welcome 👋
 
-[<img src="https://rollercoin.com/static/img/referral/banners/ref_160600.gif" width="40" height="40">](https://rollercoin.com/?r=kp4kr5j2)
+[<img src="ref_72890.gif" width="100%" height="auto">](https://rollercoin.com/?r=kp4kr5j2)
 
 <!--
 **Wazted/Wazted** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

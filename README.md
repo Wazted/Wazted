@@ -1,6 +1,12 @@
-### Hi, welcome 👋
+[![Portfolio Wazted](https://img.shields.io/badge/wazted.fr-Portfolio-purple)](https://wazted.fr)
 
-[<img src="ref_72890.gif" width="100%" height="auto">](https://rollercoin.com/?r=kp4kr5j2)
+<h2>Hi, welcome to my profile 🙌🏻</h2>
+
+a fullstack developper. nice to meet you.
+
+moving to a new M1 macbook so docker will be my companion
+
+[<img src="Moby-logo.png" width="50%" height="auto">](https://www.docker.com/products/docker-desktop)
 
 <!--
 **Wazted/Wazted** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

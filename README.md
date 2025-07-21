@@ -1,6 +1,6 @@
 <!-- GitHub profile header -->
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3h1b3lld2V5NXd5bWZ4YWZ4eHI0Z2RqcXZ0dWk5a3F6emU2d3Y0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fYiaxk5XGNk5i/giphy.gif" width="120" height="120" style="border-radius:50%;" alt="Vibe logo"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWdneHdnd2lmZno2dTg4bGR2b3dyc3F5eTN2MDlrZWV1ZnU2NXh4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mi24H3Z7YWDaE/giphy.gif" width="500" height="500" style="border-radius:50%;" alt="Vibe logo"/>
   <h1>Hey, I'm Wazted 👋</h1>
   <p>
     <strong>Web artisan crafting fast, beautiful experiences with React, Next.js & TypeScript ✨</strong>
@@ -46,25 +46,15 @@ export default function VibePage() {
 
 ### 🌱 Side quests
 
-- 🎧 **VibeMix** – collaborative playlists with live chat & reactions.
-- 🖼️ **FrameVibe** – screenshot studio that auto-polishes your UI.
-- 🧪 **useVibe** – open-source hook library for delightful micro-interactions.
+- 🎧 **VibeCoding** – Some SAAS and game stats website.
 
 ---
 
 ### 📫 Hit me up
 
 <div align="center">
-  <a href="https://twitter.com/intent/follow?screen_name=wazteddev"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="mailto:yo@wazted.dev"><img src="https://img.shields.io/badge/Email-yo@wazted.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:waztedpro@gmail.com"><img src="https://img.shields.io/badge/Email-waztedpro@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
 ---
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wazted/wazted/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wazted/wazted/output/github-contribution-grid-snake.svg"/>
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/wazted/wazted/output/github-contribution-grid-snake.svg"/>
-  </picture>
-</div>
